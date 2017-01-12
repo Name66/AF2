@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/9c331cd97b11fcc011ad11dcb786456902c3b4ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_c35472663db6737818221b5440782ab8feb41557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/2e19650c22befe96f0011f45fee1420bb1d96ce9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_0b8c4546c8a93a833b34cb551151739cdb819282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/482a971deee08e17dba78d307b74b7ad598778c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_d7d2f5f1683669844a9998ac9dda28fa0234a16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/691eb307c23d692136bf2433e383de42dc1b64b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_f90fbdb62d768a18b24f0e3b1ee9f0b2f6d596e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_b3a43eec3180c1899aaa9713b319a78d2ef13eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/ce62247f36f9e22820cfb9af3ae93612790b2d52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_3097a378d053d8e8ef5a1deca844eb1fa76f749b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/ebdafe2016ff08a1c7f5d7eab56ceb65494fca0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_2d3c1089244d5903b7c89d1843058e727b84b9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_15492e0424d3d547802729ccef45db6d111cf6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/d4c434f9c5637db21f263847d44ff8793eddc229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_326b763b188b620e76cdc77c1da59b8310707852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/27eb8d0a39bf81718d35e41b9dcef50abc4e9a3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_72c754799347c35a1091321a7e50bea6b68ca3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/5be31d5a4d007d3d5ce9dfd2556c88dd88d2f9c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_4b4dbf25f091d2c52c2122b9ee65db881f8e63d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brian/.android/build-cache/c7624d0a638fc9721b7d92f7d9f0c465d659acbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/brian/workspace/git_repo/AF2/app/build/intermediates/pre-dexed/debug/classes_f405910825c9eedb5f19747fed7af31e53f8d527.jar" />
+    </item>
+
+</items>
